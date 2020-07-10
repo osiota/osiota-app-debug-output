@@ -14,7 +14,6 @@ This application can be used to output a string to the console for debugging pur
 |----|-----------|----|
 |text|Debug output text<br/>|string|
 
-
 **Example**
 
 ```json
