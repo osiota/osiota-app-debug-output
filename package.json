@@ -1,6 +1,6 @@
 {
   "name": "osiota-app-debug-output",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This application can be used to output a string to the console for debugging purposes",
   "main": "index.js",
   "scripts": {
