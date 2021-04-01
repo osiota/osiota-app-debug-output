@@ -4,12 +4,16 @@
   "description": "This application can be used to output a string to the console for debugging purposes",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "doc": "osiota-dev-doc-jsonschema --schema schema.json --app $npm_package_name"
   },
   "author": "Simon Walz and others",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/osiota/osiota-app-debug-output.git"
+  },
+  "devDependencies": {
+    "osiota-dev": "^1.x"
   }
 }
