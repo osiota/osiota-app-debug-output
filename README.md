@@ -20,7 +20,7 @@ This application can be used to output a string to the console for debugging pur
 
 |Name|Description|Type|
 |----|-----------|----|
-|text|Debug output text<br/>|string|
+|`text`|Debug output text<br/>|string|
 
 **Example**
 
