@@ -11,5 +11,7 @@
 				"Hello World!"
 			]
 		}
-	}
+	},
+	"required": [ "text" ],
+	"additionalProperties": false
 }

@@ -18,10 +18,11 @@ This application can be used to output a string to the console for debugging pur
 
 **Properties**
 
-|Name|Description|Type|
-|----|-----------|----|
-|`text`|Debug output text<br/>|string|
+|Name|Type|Description|Required|
+|----|----|-----------|--------|
+|**text**|`string`|Debug output text<br/>|yes|
 
+**Additional Properties:** not allowed<br/>
 **Example**
 
 ```json
